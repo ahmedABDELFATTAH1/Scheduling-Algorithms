@@ -1,0 +1,369 @@
+for proecess 1
+waiting time  = 0
+turnaround time  = 0.9
+weighted turnaround time  = 0.9
+for proecess 2
+waiting time  = 0.2
+turnaround time  = 1.2
+weighted turnaround time  = 1.2
+for proecess 3
+waiting time  = 0.5
+turnaround time  = 1.5
+weighted turnaround time  = 1.5
+############################################ 
+Average Turnaround time of theschedule = 1.2
+Average Weighted turnaround time of theschedule  = 1.2
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 2.0
+weighted turnaround time  = 2.0
+for process 2.0
+waiting time  = 2.0
+turnaround time  = 3.0
+weighted turnaround time  = 3.0
+for process 3.0
+waiting time  = 3.0
+turnaround time  = 4.0
+weighted turnaround time  = 4.0
+############################################ 
+Average Turnaround time of theschedule = 1.3333333333333333
+Average Weighted turnaround time of theschedule  = 1.3333333333333333
+for process 1.0
+waiting time  = 31.90000000000002
+turnaround time  = 32.90000000000002
+weighted turnaround time  = 32.90000000000002
+for process 2.0
+waiting time  = 33.00000000000002
+turnaround time  = 34.00000000000002
+weighted turnaround time  = 34.00000000000002
+for process 3.0
+waiting time  = 33.00000000000002
+turnaround time  = 34.00000000000002
+weighted turnaround time  = 34.00000000000002
+############################################ 
+Average Turnaround time of theschedule = 11.333333333333341
+Average Weighted turnaround time of theschedule  = 11.333333333333341
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 2.0
+weighted turnaround time  = 2.0
+for process 2.0
+waiting time  = 2.0
+turnaround time  = 3.0
+weighted turnaround time  = 3.0
+for process 3.0
+waiting time  = 3.0
+turnaround time  = 4.0
+weighted turnaround time  = 4.0
+############################################ 
+Average Turnaround time of theschedule = 1.3333333333333333
+Average Weighted turnaround time of theschedule  = 1.3333333333333333
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 2.0
+weighted turnaround time  = 2.0
+for process 2.0
+waiting time  = 2.0
+turnaround time  = 3.0
+weighted turnaround time  = 3.0
+for process 3.0
+waiting time  = 3.0
+turnaround time  = 4.0
+weighted turnaround time  = 4.0
+############################################ 
+Average Turnaround time of theschedule = 1.3333333333333333
+Average Weighted turnaround time of theschedule  = 1.3333333333333333
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 2.0
+weighted turnaround time  = 2.0
+for process 2.0
+waiting time  = 2.0
+turnaround time  = 3.0
+weighted turnaround time  = 3.0
+for process 3.0
+waiting time  = 3.0
+turnaround time  = 4.0
+weighted turnaround time  = 4.0
+############################################ 
+Average Turnaround time of theschedule = 1.3333333333333333
+Average Weighted turnaround time of theschedule  = 1.3333333333333333
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 2.0
+weighted turnaround time  = 2.0
+for process 2.0
+waiting time  = 2.0
+turnaround time  = 3.0
+weighted turnaround time  = 3.0
+for process 3.0
+waiting time  = 3.0
+turnaround time  = 4.0
+weighted turnaround time  = 4.0
+############################################ 
+Average Turnaround time of theschedule = 1.3333333333333333
+Average Weighted turnaround time of theschedule  = 1.3333333333333333
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 2.0
+weighted turnaround time  = 2.0
+for process 2.0
+waiting time  = 2.0
+turnaround time  = 3.0
+weighted turnaround time  = 3.0
+for process 3.0
+waiting time  = 3.0
+turnaround time  = 4.0
+weighted turnaround time  = 4.0
+############################################ 
+Average Turnaround time of theschedule = 1.3333333333333333
+Average Weighted turnaround time of theschedule  = 1.3333333333333333
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 2.0
+weighted turnaround time  = 2.0
+for process 2.0
+waiting time  = 2.0
+turnaround time  = 3.0
+weighted turnaround time  = 3.0
+for process 3.0
+waiting time  = 3.0
+turnaround time  = 4.0
+weighted turnaround time  = 4.0
+for process 4.0
+waiting time  = 4.0
+turnaround time  = 5.0
+weighted turnaround time  = 5.0
+############################################ 
+Average Turnaround time of theschedule = 1.25
+Average Weighted turnaround time of theschedule  = 1.25
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 2.0
+weighted turnaround time  = 2.0
+for process 2.0
+waiting time  = 2.0
+turnaround time  = 3.0
+weighted turnaround time  = 3.0
+for process 3.0
+waiting time  = 3.0
+turnaround time  = 4.0
+weighted turnaround time  = 4.0
+for process 4.0
+waiting time  = 4.0
+turnaround time  = 5.0
+weighted turnaround time  = 5.0
+############################################ 
+Average Turnaround time of theschedule = 1.25
+Average Weighted turnaround time of theschedule  = 1.25
+for process 0.0
+waiting time  = 1.0
+turnaround time  = 1.0
+weighted turnaround time  = inf
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 6.0
+weighted turnaround time  = 1.2
+############################################ 
+Average Turnaround time of theschedule = 3.0
+Average Weighted turnaround time of theschedule  = 0.6
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 6.0
+weighted turnaround time  = 1.2
+############################################ 
+Average Turnaround time of theschedule = 6.0
+Average Weighted turnaround time of theschedule  = 1.2
+for process 0.0
+waiting time  = 0.3
+turnaround time  = 0.3
+weighted turnaround time  = inf
+for process 0.0
+waiting time  = 0.6
+turnaround time  = 0.6
+weighted turnaround time  = inf
+for process 0.0
+waiting time  = 0.8999999999999999
+turnaround time  = 0.8999999999999999
+weighted turnaround time  = inf
+for process 1.0
+waiting time  = 0.2999999999999998
+turnaround time  = 5.3
+weighted turnaround time  = 1.06
+############################################ 
+Average Turnaround time of theschedule = 1.325
+Average Weighted turnaround time of theschedule  = 0.265
+for process 0.0
+waiting time  = 1.0
+turnaround time  = 1.0
+weighted turnaround time  = inf
+for process 0.0
+waiting time  = 2.0
+turnaround time  = 2.0
+weighted turnaround time  = inf
+for process 0.0
+waiting time  = 3.0
+turnaround time  = 3.0
+weighted turnaround time  = inf
+for process 1.0
+waiting time  = 3.0
+turnaround time  = 8.0
+weighted turnaround time  = 1.6
+############################################ 
+Average Turnaround time of theschedule = 2.0
+Average Weighted turnaround time of theschedule  = 0.4
+for process 0.0
+waiting time  = 1.0
+turnaround time  = 1.0
+weighted turnaround time  = inf
+for process 0.0
+waiting time  = 2.0
+turnaround time  = 2.0
+weighted turnaround time  = inf
+for process 0.0
+waiting time  = 3.0
+turnaround time  = 3.0
+weighted turnaround time  = inf
+for process 1.0
+waiting time  = 3.0
+turnaround time  = 8.0
+weighted turnaround time  = 1.6
+############################################ 
+Average Turnaround time of theschedule = 2.0
+Average Weighted turnaround time of theschedule  = 0.4
+for process 0.0
+waiting time  = 1.0
+turnaround time  = 1.0
+weighted turnaround time  = inf
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 6.0
+weighted turnaround time  = 1.2
+############################################ 
+Average Turnaround time of theschedule = 3.0
+Average Weighted turnaround time of theschedule  = 0.6
+for process 0.0
+waiting time  = 1.0
+turnaround time  = 1.0
+weighted turnaround time  = inf
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 6.0
+weighted turnaround time  = 1.2
+############################################ 
+Average Turnaround time of theschedule = 3.0
+Average Weighted turnaround time of theschedule  = 0.6
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 6.0
+weighted turnaround time  = 1.2
+for process 2.0
+waiting time  = 7.0
+turnaround time  = 12.0
+weighted turnaround time  = 2.4
+for process 3.0
+waiting time  = 13.0
+turnaround time  = 18.0
+weighted turnaround time  = 3.6
+for process 4.0
+waiting time  = 19.0
+turnaround time  = 24.0
+weighted turnaround time  = 4.8
+############################################ 
+Average Turnaround time of theschedule = 6.0
+Average Weighted turnaround time of theschedule  = 1.2
+for process 1.0
+waiting time  = 29.0
+turnaround time  = 34.0
+weighted turnaround time  = 6.8
+for process 2.0
+waiting time  = 31.0
+turnaround time  = 36.0
+weighted turnaround time  = 7.2
+for process 3.0
+waiting time  = 33.0
+turnaround time  = 38.0
+weighted turnaround time  = 7.6
+for process 4.0
+waiting time  = 35.0
+turnaround time  = 40.0
+weighted turnaround time  = 8.0
+############################################ 
+Average Turnaround time of theschedule = 10.0
+Average Weighted turnaround time of theschedule  = 2.0
+for proecess 1
+waiting time  = 0
+turnaround time  = 4.9
+weighted turnaround time  = 1.0
+for proecess 2
+waiting time  = 5.9
+turnaround time  = 10.9
+weighted turnaround time  = 2.2
+for proecess 3
+waiting time  = 11.9
+turnaround time  = 16.9
+weighted turnaround time  = 3.4
+for proecess 4
+waiting time  = 17.9
+turnaround time  = 22.9
+weighted turnaround time  = 4.6
+############################################ 
+Average Turnaround time of theschedule = 13.9
+Average Weighted turnaround time of theschedule  = 2.8
+for proecess 1
+waiting time  = 6.9
+turnaround time  = 11.9
+weighted turnaround time  = 2.4
+for proecess 2
+waiting time  = 0.9
+turnaround time  = 1.9
+weighted turnaround time  = 1.9
+for proecess 3
+waiting time  = 1.9
+turnaround time  = 2.9
+weighted turnaround time  = 2.9
+for proecess 4
+waiting time  = 2.9
+turnaround time  = 3.9
+weighted turnaround time  = 3.9
+############################################ 
+Average Turnaround time of theschedule = 5.15
+Average Weighted turnaround time of theschedule  = 2.775
+for process 1.0
+waiting time  = 1.0
+turnaround time  = 6.0
+weighted turnaround time  = 1.2
+for process 2.0
+waiting time  = 6.0
+turnaround time  = 7.0
+weighted turnaround time  = 7.0
+for process 3.0
+waiting time  = 7.0
+turnaround time  = 8.0
+weighted turnaround time  = 8.0
+for process 4.0
+waiting time  = 8.0
+turnaround time  = 9.0
+weighted turnaround time  = 9.0
+############################################ 
+Average Turnaround time of theschedule = 2.25
+Average Weighted turnaround time of theschedule  = 2.25
+for proecess 1
+waiting time  = 5.9
+turnaround time  = 10.9
+weighted turnaround time  = 2.2
+for proecess 2
+waiting time  = 0
+turnaround time  = 0.9
+weighted turnaround time  = 0.9
+for proecess 3
+waiting time  = 1.9
+turnaround time  = 2.9
+weighted turnaround time  = 2.9
+for proecess 4
+waiting time  = 3.9
+turnaround time  = 4.9
+weighted turnaround time  = 4.9
+############################################ 
+Average Turnaround time of theschedule = 4.9
+Average Weighted turnaround time of theschedule  = 2.725
